@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&family=Playfair+Display:wght@700&display=swap');
+ 
+ 
+ body{
+    font-family: 'Open Sans Condensed', sans-serif;
+
+    font-family: 'Playfair Display', serif;
+
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+ }
+
+ .myName{
+     color:#FFA500;
+ }
+ .top-banner{
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.half-width{
+    width:50%;
+}
+
+.half-width img{
+    width: 80%;
+}
+
+.intro_container a{
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    text-decoration: none;
+    border-radius: 5px;
+    color:#ffff;
+    font-weight:900 ;
+}
+ 
